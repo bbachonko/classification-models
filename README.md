@@ -1,5 +1,5 @@
 # classification-models
-ML models with discrete target column 
+ML models with discrete target column. These are basic data preprocssing steps with some visualizing. Using diffrent ways to tune hyper-params of selected estimator.
 
 Kaggle site of datasets:
 
